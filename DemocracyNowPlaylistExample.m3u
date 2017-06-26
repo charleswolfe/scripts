@@ -1,27 +1,28 @@
 #EXTM3U
-#EXTINF:3540, Democracy Now! 2017-06-26 Monday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/48/37248/medium/S1_TrumpModi.jpeg", Democracy Now! 2017-06-26 Monday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0626.mp4
-#EXTINF:3540, Democracy Now! 2017-06-23 Friday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/27/37227/medium/S2_Healthcare_Protest.jpeg", Democracy Now! 2017-06-23 Friday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0623.mp4
-#EXTINF:3540, Democracy Now! 2017-06-22 Thursday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/05/37205/medium/S1_Salman.jpeg", Democracy Now! 2017-06-22 Thursday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0622.mp4
-#EXTINF:3540, Democracy Now! 2017-06-21 Wednesday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/81/37181/medium/S1_Ossoff_Handel.jpeg", Democracy Now! 2017-06-21 Wednesday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0621.mp4
-#EXTINF:3540, Democracy Now! 2017-06-20 Tuesday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/57/37157/medium/G1_Arundhati_Roy_C.jpeg", Democracy Now! 2017-06-20 Tuesday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0620.mp4
-#EXTINF:3540, Democracy Now! 2017-06-19 Monday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/53/37153/medium/S4_Protest_NY.jpg", Democracy Now! 2017-06-19 Monday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0619.mp4
-#EXTINF:3540, Democracy Now! 2017-06-16 Friday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/13/37113/medium/S13_DAPL_Sign.jpg", Democracy Now! 2017-06-16 Friday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0616.mp4
-#EXTINF:3540, Democracy Now! 2017-06-15 Thursday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/84/37084/medium/S02_Scalise.jpeg", Democracy Now! 2017-06-15 Thursday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0615.mp4
-#EXTINF:3540, Democracy Now! 2017-06-14 Wednesday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/61/37061/medium/S1_Sessions.jpeg", Democracy Now! 2017-06-14 Wednesday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0614.mp4
-#EXTINF:3540, Democracy Now! 2017-06-13 Tuesday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/34/37034/medium/G1_Naomi_Klein_C.jpeg", Democracy Now! 2017-06-13 Tuesday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0613.mp4
-#EXTINF:3540, Democracy Now! 2017-06-12 Monday
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/story/09/37009/medium/S02_Yemen_Child.jpeg", Democracy Now! 2017-06-12 Monday
 https://publish.dvlabs.com/democracynow/video-podcast/dn2017-0612.mp4
-#EXTINF:3540, Web Exclusive: Can Brooklyn's Little Pakistan Survive Trump? Pt. 2
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/blog_posts/03/37203/medium/S7_Razvi_Gonnerman_Split.jpg", Web Exclusive: Can Brooklyn's Little Pakistan Survive Trump? Pt. 2
 https://publish.dvlabs.com/democracynow/video-podcast/wx2017-0621_little-pakistan-podcast.mp4
-#EXTINF:3540, Full Extended Interview: Arundhati Roy on Democracy Now!
+#EXTINF:3540 tvg-logo="https://www.democracynow.org/images/blog_posts/80/37180/medium/S1_Arundhati_Roy1.jpg", Full Extended Interview: Arundhati Roy on Democracy Now!
 https://publish.dvlabs.com/democracynow/video-podcast/wx2017-0620_roy-full-podcast.mp4
+
