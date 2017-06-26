@@ -14,7 +14,9 @@ for channel in e.findall('channel'):
         #print channel.tag
         for atem in channel.findall('item'):
                 mediac = atem.find('media:content', namespaces)
-                print('#EXTINF:{0}, {1}').format(
+                thumbnail = atem.find('media:thumbnail', namespaces)
+                print('#EXTINF:{0} tvg-logo="{1}", {2}').format(
                                 mediac.get('duration'),
+                                thumbnail.get('url'),
                                 atem.find('title').text);
                 print(mediac.get('url'))
